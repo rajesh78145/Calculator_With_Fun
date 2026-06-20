@@ -35,3 +35,6 @@ When a secret code is entered and `=` is pressed, a meme image appears on the sc
 ## Project Purpose
 
 I made this project to practice JavaScript, DOM manipulation, button clicks, conditions, and showing/hiding elements on a webpage.
+
+✨ Thanks for Visiting
+Thanks for checking out my GitHub profile. Have a great day! 🙂
