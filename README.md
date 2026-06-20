@@ -1,25 +1,37 @@
 # Calculator_With_Fun
 A fun calculator that reveals hidden full-screen images when secret numbers are entered.
 
-Secret Image Calculator is a simple web calculator with a fun hidden feature. When a user enters special secret numbers and presses `=`, a full-screen image appears.
+A simple calculator built with HTML, CSS, and JavaScript.
+
+This project started as a normal calculator, then I added a small fun feature to make it more interesting. It works like a regular calculator, but it can also show a surprise image when a special code is entered.
 
 ## Features
 
-- Basic calculator interface
-- Secret number detection
-- Full-screen image overlay
-- Close button for the image
-- Multiple secret images
-- Works with online image links
+- Basic calculator layout
+- Number and operator buttons
+- Clear button
+- Equals button for calculation
+- Responsive and easy-to-use design
+- Small hidden surprise feature
 
-## How It Works
+## Built With
 
-The calculator checks the value entered by the user. If the value matches a secret number, the matching image is shown on the screen.
+- HTML
+- CSS
+- JavaScript
 
-Example:
+## How To Use
 
-```js
-const secrets = {
-  "106": "https://example.com/image1.jpg",
-  "777": "https://example.com/image2.jpg"
-};
+1. Open the calculator.
+2. Enter any calculation.
+3. Press `=`.
+4. Use it like a normal calculator.
+
+## Fun Secret
+
+This calculator includes some meme images as a fun hidden feature.  
+When a secret code is entered and `=` is pressed, a meme image appears on the screen.
+
+## Project Purpose
+
+I made this project to practice JavaScript, DOM manipulation, button clicks, conditions, and showing/hiding elements on a webpage.
