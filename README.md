@@ -32,9 +32,10 @@ This project started as a normal calculator, then I added a small fun feature to
 This calculator includes some meme images as a fun hidden feature.  
 When a secret code is entered and `=` is pressed, a meme image appears on the screen.
 
-## Project Purpose
+## Project Purpose 🙂
 
 I made this project to practice JavaScript, DOM manipulation, button clicks, conditions, and showing/hiding elements on a webpage.
 
 ✨ Thanks for Visiting
+
 Thanks for checking out my GitHub profile. Have a great day! 🙂
